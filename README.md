@@ -1,20 +1,25 @@
 # Leonardo Aquino
 
-## 👨‍💻 Senior Backend Developer | Java Specialist
+## 👨‍💻 Senior Backend Developer | Java Specialist | AWS Cloud
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonardo-aquino-061370171/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:leeoaquino8@gmail.com)
 
-### 🚀 Sobre mim
+### 🚀 About Me
 
-Desenvolvedor Backend Senior com foco em Java e arquitetura de microsserviços. Especialista em desenvolvimento de soluções escaláveis e de alta performance, com forte experiência em Spring Framework e práticas DevOps.
+Senior Backend Developer specializing in Java and AWS microservices architecture. Expert in developing scalable, high-performance solutions with extensive experience in Spring Framework, DevOps practices, and cloud architecture.
 
-### 💼 Experiência Técnica
+### 💼 Technical Expertise
 
-#### Linguagens & Frameworks
+#### Languages & Frameworks
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white)
 ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=flat&logo=hibernate&logoColor=white)
+
+#### Cloud & AWS
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
+- **Compute:** EC2, ECS, Lambda, EKS
+- **Storage:** S3, EBS
 
 #### Database
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
@@ -24,50 +29,55 @@ Desenvolvedor Backend Senior com foco em Java e arquitetura de microsserviços. 
 #### DevOps & Tools
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform&logoColor=white)
 
-### 🌟 Projetos em Destaque
+### 🌟 Featured Projects
 
-#### 🛍️ E-commerce Microsserviços [Em Desenvolvimento]
-Sistema distribuído baseado em microsserviços para gestão de e-commerce.
-- Arquitetura de microsserviços com Spring Cloud
-- Processamento assíncrono com Kafka
-- Cache distribuído com Redis
-- Containerização com Docker/Kubernetes
+#### 🛍️ E-commerce Microservices [In Development]
+Distributed system based on microservices for e-commerce management.
+- Microservices architecture with Spring Cloud on AWS
+- Container orchestration with ECS
+- Database management with RDS
+- Distributed caching with ElastiCache
+- Asynchronous messaging with SQS/SNS
 
-#### 🔐 Sistema de Autenticação [Em Desenvolvimento]
-Sistema robusto de autenticação e autorização.
-- OAuth 2.0 / OpenID Connect
-- Multi-tenancy
-- Role-based access control (RBAC)
-- Two-factor authentication (2FA)
+#### 🔐 Authentication System [In Development]
+Robust authentication and authorization system.
+- Authentication with Cognito
+- Access control with IAM
+- Serverless functions with Lambda
+- Data storage with DynamoDB
+- Monitoring with CloudWatch
 
-#### 📊 Processador de Dados em Batch [Planejado]
-Sistema de processamento de dados em larga escala.
-- Spring Batch para processamento
-- Validações complexas
-- Geração de relatórios
-- Agendamento de jobs
+#### 📊 Batch Data Processor [Planned]
+Large-scale data processing system.
+- Processing with AWS Batch
+- Data storage with S3
+- Event triggers with Lambda
+- Job scheduling with CloudWatch Events
+- Notifications with SNS
 
 ### 📈 GitHub Stats
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=leeok4&show_icons=true&theme=dracula)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=leeok4&show_icons=true&theme=dracula)
 
-### 📚 Estudos Atuais
-- Aprofundamento em Arquitetura de Microsserviços
-- CI/CD com GitHub Actions
-- Kubernetes para Deploy de Aplicações
-- Práticas DevOps Avançadas
+### 📚 Current Studies
+- AWS Well-Architected Framework
+- Serverless Architecture on AWS
+- Infrastructure as Code with Terraform
+- Container Orchestration with EKS
+- CI/CD with GitHub Actions and AWS CodePipeline
 
-### 🎯 Objetivos 2025
-- [x] Iniciar projeto de microsserviços
-- [ ] Implementar CI/CD completo com GitHub Actions
-- [ ] Contribuir para projetos open source
-- [ ] Compartilhar conhecimento através de artigos técnicos
+### 🎯 2025 Goals
+- [x] Initialize microservices project on AWS
+- [ ] Implement complete CI/CD with GitHub Actions and AWS
+- [ ] Obtain AWS Professional certification
+- [ ] Contribute to open source projects
+- [ ] Share knowledge through technical articles
 
-### 📫 Contato
-- LinkedIn: [https://www.linkedin.com/in/leonardo-aquino-061370171/]
-- Email: [leeoaquino8@gmail.com]
+### 📫 Contact
+- LinkedIn: [Leonardo Aquino](https://www.linkedin.com/in/leonardo-aquino-061370171/)
+- Email: leeoaquino8@gmail.com
 
 ---
 ⭐️ From [leeok4](https://github.com/leeok4)
