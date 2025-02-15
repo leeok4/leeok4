@@ -51,7 +51,7 @@ Sistema de processamento de dados em larga escala.
 
 ### 📈 GitHub Stats
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=dracula)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=leeok4&show_icons=true&theme=dracula)
 
 ### 📚 Estudos Atuais
 - Aprofundamento em Arquitetura de Microsserviços
